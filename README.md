@@ -1,4 +1,4 @@
-# Учебный проект: To-Do Task Manager
+**To-Do Task Manager**
 
 ## 1. Название проекта
 **To-Do Task Manager** — лёгкое Python-приложение для ведения списка задач.
@@ -19,8 +19,8 @@
 
 ### Установка:
 ```bash
-git clone https://github.com/username/todo-task-manager-python.git
-cd todo-task-manager-python
+git clone https://github.com/skeet-cc/to-do-task-manager
+cd to-do-task-manager
 python -m venv venv
 # Активировать окружение:
 # Windows: venv\Scripts\activate
@@ -45,7 +45,7 @@ python main.py
 
 ## 5. Структура репозитория
 ```
-/todo-task-manager-python
+/to-do-task-manager
 │   README.md
 │   LICENSE
 │   requirements.txt
@@ -65,10 +65,7 @@ python main.py
 - Git, редактор кода
 
 ## 7. Авторы
-- Иван Иванов
-- Мария Петрова
-- Алексей Смирнов
+- Певнев Александр
 
 ## 8. Контакты
-Email: todo.support@example.com  
-GitHub Issues: https://github.com/username/todo-task-manager-python/issues
+aleksandrpevnev572@gmail.com
